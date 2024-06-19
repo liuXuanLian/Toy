@@ -1,0 +1,3 @@
+do
+msgbox"BAKA"
+loop
